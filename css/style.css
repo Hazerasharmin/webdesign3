@@ -1,0 +1,169 @@
+/*common start*/
+	body {
+		margin:0
+		font-family: 'Playfair Display', serif;
+		font-size: 16px;
+		font-weight: 400;
+		color:#626262 ;
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 35px 0;
+	/*border: 1px solid red;*/
+
+}
+.container {
+	margin: 0 auto;
+	width: 90%;
+/*	border: 1px solid;*/
+	overflow: hidden;
+}
+.logo{
+	margin-top: 4px;
+	width:13% ;
+	float:left;
+}
+.logo a{
+	display: block;
+}
+.logo a img{
+	width: 100%;
+}
+.menu{
+	width:60% ;
+
+	float: right;
+}
+.menu ul{
+	margin: 0;
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	
+}
+.menu ul li a{
+	margin: 0 50px;
+	padding: 5px 2px;
+	display: inline-block;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-bottom: 1 px solid transparent;
+	transition: .33s;	
+}
+.menu ul li a:hover{
+	border-bottom: 1px solid #626262;}
+
+.menu ul li:last-child a{
+	margin-right: 0;}
+/*heaader end*/
+/*banner start*/
+.banner{}
+.b_img{}
+.b_img img{
+	width: 100%;
+
+}
+/*banner end*/
+/*message start*/
+.message{
+	padding: 80px 0;
+
+}
+.container2{
+	margin: 0 auto;
+	width: 80%;
+/*	border: 1px solid ;*/
+}
+.light{
+	margin: 0;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color:#b4ad9e ;
+	text-transform: uppercase;
+}
+.title{
+	margin: 20px 0 30px;
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	font-weight: 400;
+
+}
+.text{
+	margin: 0;
+	font-family: 'Playfair Display', serif;
+	line-height: 24px;
+}
+.mt_40{
+	margin-top:40px;
+}	
+/*message end*/
+/*feature start*/
+
+	.feature{
+		padding: 80px 0 ;
+
+	}
+	.container3{
+		margin: 0 auto;
+		width: 80%;
+	}
+
+
+.f_left {
+	width: 75%;
+	float:left;
+	 padding: 20px 0px 20px;
+	}
+
+	
+
+	
+	
+
+.f_right {
+	width:25% ;
+	float: right;
+	 padding: 20px 0x 20px;
+	 }
+	 
+	 
+
+	/*feature end */
+/*about start*/
+.a_left{
+	width: 45%;
+	float: left;
+
+}
+.a_right{
+	width: 45%;
+	float: right;
+}
+
+
+/*about end*/
+/* feature start */
+
+	
+.feature2{
+	padding: 80px 0;
+}
+
+
+/*feature end*/
+/*about2 start*/
+
+.about2{
+
+	padding: 80px 0;
+}
+/*about2 end*/
+
+
+
+
+
